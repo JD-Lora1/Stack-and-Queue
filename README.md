@@ -2,7 +2,7 @@
 
 ## E1. Reverse String:
 The String to reverse is the variable myStr in the main method.<br>
-![text](https://github.com/JD-Lora1/Stack-and-Queue/ReverseString.png)<br><br>
+![text](https://github.com/JD-Lora1/Stack-and-Queue/blob/main/ReverseString.png)<br><br>
 Run the class E1_ReverseString
 
         public static void main(String[] args) {

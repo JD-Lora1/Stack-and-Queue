@@ -2,6 +2,9 @@
 * ### Juan Diego Lora - A00369885
 * ### Santiago Prado - A00365113
 
+## Note:
+The code is commented, to guide.
+
 ## E1. Reverse String:
 (Run E1_ReverseString)<br>
 The String to reverse is the variable **_myStr_** in the **_main_** method.<br>
